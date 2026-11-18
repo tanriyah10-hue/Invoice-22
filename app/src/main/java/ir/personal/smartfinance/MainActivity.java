@@ -1,3 +1,5 @@
+import android.content.Intent;
+import android.content.SharedPreferences;
 package ir.personal.smartfinance;
 package ir.personal.smartfinance;
 
