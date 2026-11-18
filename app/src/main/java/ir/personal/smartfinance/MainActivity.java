@@ -1,8 +1,6 @@
 import android.content.Intent;
 import android.content.SharedPreferences;
 package ir.personal.smartfinance;
-package ir.personal.smartfinance;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.graphics.Canvas;
